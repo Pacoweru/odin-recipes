@@ -1,2 +1,3 @@
 # odin-recipes
 A page of different spanish typical plates
+Will add more info when finishing this project...

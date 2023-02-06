@@ -1,0 +1,25 @@
+.titulos, 
+.subtitulo {
+    background-color: rgb(148, 52, 17);
+    color: rgb(206, 212, 29);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitulo {
+    text-align: center
+}
+
+
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+
+
+
